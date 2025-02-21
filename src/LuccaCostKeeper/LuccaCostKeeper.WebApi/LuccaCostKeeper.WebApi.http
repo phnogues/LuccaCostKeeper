@@ -1,0 +1,6 @@
+@LuccaCostKeeper.WebApi_HostAddress = http://localhost:5043
+
+GET {{LuccaCostKeeper.WebApi_HostAddress}}/expenses/v1
+Accept: application/json
+
+###
